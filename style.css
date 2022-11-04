@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.whitepace{
+ 
+}
+
+.resources{
+
+   
+
+}
+Footer{
+    width:1920px;
+    Height:474px;
+    Top:8105.93px;
+    padding:140px, 220px, 32px, 220px;
+    background-color: #043873;
+    gap: 200px;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content:space-between;
+}
+.footer-bottom{
+    
+    direction: row;
+}
+
+
+footer span{
+    color: white;
+}
+
+.social-media-icons a {
+    padding:
+}
+
